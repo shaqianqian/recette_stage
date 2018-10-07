@@ -10,4 +10,4 @@ commande:expo start
 
 # Base de donee :fichier recette.recette.sql
 copiez les codes dedans dans les scripts dans votre editeur de base de donnee 
-# recette_stage
+
